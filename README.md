@@ -11,7 +11,6 @@ Hello!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="vacristina-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="vacristina-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ##
